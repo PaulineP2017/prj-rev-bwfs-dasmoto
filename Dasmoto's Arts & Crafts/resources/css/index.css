@@ -1,0 +1,38 @@
+Body {
+  Font-family: Helvetica;
+}
+
+h1 {
+  Font-family: Helvetica;
+  color: khaki;
+  font-size: 100 px;
+  font-weight: bold;
+  background-image: url('../pattern.jpeg');
+  }
+
+  h2 {
+    Font-family: Helvetica;
+    color: white;
+    font-size: 32 px;
+    font-weight: bold;
+    background-color: mediumspringgreen;
+  }
+
+h3 {
+  Font-family: Helvetica;
+  font-weight: bold;
+}
+
+.brush {
+  font-weight: bold;
+  color: blue;
+  Font-family: Helvetica;
+}
+
+.Frames {
+  background-color: Lightcoral;
+}
+
+.Paint {
+  background-color: skyblue;
+}
